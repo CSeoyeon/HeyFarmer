@@ -1,0 +1,11 @@
+@font-face 
+{
+    font-family: '123RF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_nine_@1.1/123RF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+	font-faimly: "123RF";
+}
